@@ -1,0 +1,12 @@
+python-dotenv
+requests
+
+
+langchain==0.1.17
+langchain-core==0.1.52
+langchain-astradb==0.2.0
+langchain-openai==0.1.6
+langchainhub
+pypdf
+streamlit
+streamlit-pdf
