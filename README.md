@@ -1,6 +1,3 @@
-Here is the cleaned‑up README text you can paste directly:
-
-text
 # PDF Question‑Answering Agent
 
 A Streamlit web app that lets you upload PDF documents, stores them in Astra DB as vector embeddings using LangChain, and then ask natural‑language questions answered using OpenAI’s GPT‑4o model over your own documents.
